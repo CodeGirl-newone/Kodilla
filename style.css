@@ -1,0 +1,31 @@
+body {
+	background-color: lightbeige;
+	margin: 0;
+}
+
+.hero h1{
+	text-align: center;
+	font-size: 32px;
+	letter-spacing: 2px;
+	color: white;
+	margin-top: 0;
+	line-height: 50px;
+}
+
+header.hero {
+	height: 50px;
+	background-color: darkgreen;
+	margin: 0;
+}
+
+div.container {
+	width: 90%;
+	margin: 10px auto;
+}
+
+div.main {
+	width: 150px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
